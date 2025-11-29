@@ -39,10 +39,10 @@ Een interactief online bordspel met Nederlandse dierenvragen, geïnspireerd door
 4. Eerste speler die 10 punten heeft, wint!
 
 ## Technische Structuur
-`server.py` - Python Flask backend met WebSocket (Flask-SocketIO) voor real-time multiplayer
-`index.html` - Hoofdpagina met spelstructuur en lobby
-`style.css` - Styling voor bord, kaarten en animaties
-`script.js` - Spellogica, vragen, game mechanics en WebSocket connectie
+`server.py` - Python Flask backend met WebSocket (Flask-SocketIO) voor real-time multiplayer<br>
+`index.html` - Hoofdpagina met spelstructuur en lobby<br>
+`style.css` - Styling voor bord, kaarten en animaties<br>
+`script.js` - Spellogica, vragen, game mechanics en WebSocket connectie<br>
 
 ## Server Configuratie
 
