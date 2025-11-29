@@ -46,4 +46,8 @@ Een interactief online bordspel met Nederlandse dierenvragen, geïnspireerd door
 
 ## Server Configuratie
 
-Deze app draait als Web Service via [Render](render.com), [op deze URL](https://animal-quiz-nl.onrender.com). De app gebruikt Python voor de backend en HTML/JS voor de frontend.
+Deze app draait als Web Service via [Render](render.com), [op deze URL](https://animal-quiz-nl.onrender.com).
+
+## Credits
+
+Voor deze app gaan alle credits naar mijn broertje van 13 jaar oud. Hij heeft deze app ontworpen (natuurlijk met AI). Hij kreeg de app niet live, hierbij heb ik hem geholpen.
