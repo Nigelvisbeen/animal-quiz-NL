@@ -49,4 +49,4 @@ Deze app draait als Web Service via [Render](render.com), [op deze URL](https://
 4. Eerste speler die 10 punten heeft, wint!
 
 ## Credits
-Voor deze app gaan alle credits naar mijn broertje van 13 jaar oud. Hij heeft deze app ontworpen (natuurlijk met AI). Hij kreeg de app niet live, hierbij heb ik hem geholpen.
+Voor deze app gaan credits naar mijn broertje van 13 jaar oud. Hij heeft deze app ontworpen (natuurlijk met AI). Hij kreeg de app niet live, hierbij heb ik hem geholpen.
