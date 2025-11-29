@@ -1,17 +1,17 @@
 # Dierenquiz Bordspel
 ## Overzicht
 Een interactief online bordspel met Nederlandse dierenvragen, geïnspireerd door Outsmarted. Spelers gooien een dobbelsteen, bewegen over het bord en beantwoorden vragen over verschillende dierencategorieën.
----
+
 ## Technische Structuur
 `server.py` - Python Flask backend met WebSocket (Flask-SocketIO) voor real-time multiplayer<br>
 `index.html` - Hoofdpagina met spelstructuur en lobby<br>
 `style.css` - Styling voor bord, kaarten en animaties<br>
 `script.js` - Spellogica, vragen, game mechanics en WebSocket connectie<br>
----
+
 ## Server Configuratie
 
 Deze app draait als Web Service via [Render](render.com), [op deze URL](https://animal-quiz-nl.onrender.com).
----
+
 ## Functies
 - Online Multiplayer: Speel met vrienden op verschillende apparaten via een 6-cijferige PIN-code
 - Lokaal Spelen: 1-4 spelers op hetzelfde apparaat
@@ -27,7 +27,9 @@ Deze app draait als Web Service via [Render](render.com), [op deze URL](https://
 - Bonusvakjes voor extra punten
 - Score tracking per speler
 - Winnaar bepaling aan het einde
+
 ---
+
 ## Hoe te spelen
 #### Online Multiplayer (meerdere apparaten)
 1. Host: Klik op "Nieuw Spel Maken", voer je naam in
