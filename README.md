@@ -12,10 +12,6 @@ Een interactief online bordspel met Nederlandse dierenvragen, geïnspireerd door
 
 Deze app draait als Web Service via [Render](render.com), [op deze URL](https://animal-quiz-nl.onrender.com).
 
-## Credits
-
-Voor deze app gaan alle credits naar mijn broertje van 13 jaar oud. Hij heeft deze app ontworpen (natuurlijk met AI). Hij kreeg de app niet live, hierbij heb ik hem geholpen.
-
 ## Functies
 - Online Multiplayer: Speel met vrienden op verschillende apparaten via een 6-cijferige PIN-code
 - Lokaal Spelen: 1-4 spelers op hetzelfde apparaat
@@ -51,3 +47,6 @@ Voor deze app gaan alle credits naar mijn broertje van 13 jaar oud. Hij heeft de
 2. Beantwoord de vraag van de categorie waar je landt
 3. Goed antwoord = 1 punt (2 punten op bonusvakjes)
 4. Eerste speler die 10 punten heeft, wint!
+
+## Credits
+Voor deze app gaan alle credits naar mijn broertje van 13 jaar oud. Hij heeft deze app ontworpen (natuurlijk met AI). Hij kreeg de app niet live, hierbij heb ik hem geholpen.
