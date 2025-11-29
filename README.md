@@ -29,14 +29,14 @@ Deze app draait als Web Service via [Render](render.com), [op deze URL](https://
 - Winnaar bepaling aan het einde
 
 ## Hoe te spelen
-### Online Multiplayer (meerdere apparaten)
+#### Online Multiplayer (meerdere apparaten)
 1. Host: Klik op "Nieuw Spel Maken", voer je naam in
 2. Host: Deel de 6-cijferige PIN met je vrienden
 3. Anderen: Klik op "Deelnemen met PIN", voer naam en PIN in
 4. Host: Klik op "Start Spel" wanneer iedereen klaar is
 5. Iedereen speelt op zijn eigen apparaat!
 
-### Lokaal Spelen (1 apparaat)
+#### Lokaal Spelen (1 apparaat)
 1. Klik op "Lokaal Spelen (1 apparaat)"
 2. Voer spelernamen in (minimaal 1, maximaal 4)
 3. Klik op "Start Spel"
