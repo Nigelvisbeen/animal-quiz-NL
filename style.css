@@ -476,12 +476,12 @@ p {
   flex-shrink: 0;
 }
 
-.zoogdieren, .dot.zoogdieren { background: #e74c3c; }
-.vogels, .dot.vogels { background: #3498db; }
-.vissen, .dot.vissen { background: #1abc9c; }
-.reptielen, .dot.reptielen { background: #9b59b6; }
-.insecten, .dot.insecten { background: #f39c12; }
-.huisdieren, .dot.huisdieren { background: #e91e63; }
+.dieren, .dot.dieren { background: #e74c3c; }
+.pubquiz, .dot.pubquiz { background: #3498db; }
+.sneldenken, .dot.sneldenken { background: #1abc9c; }
+.terugnaardeschool, .dot.terugnaardeschool { background: #9b59b6; }
+.logoquiz, .dot.logoquiz { background: #f39c12; }
+.videogame, .dot.videogame { background: #e91e63; }
 .bonus, .dot.bonus { background: linear-gradient(135deg, #ffd700, #ff6b6b); }
 
 .goal-info {
